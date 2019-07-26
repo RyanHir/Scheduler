@@ -173,6 +173,15 @@ function viewGradeSelect(){
 	}
 	html += "</select>";
 	html += "<br><br><input type='submit'id='grade-submit'value='Select'/></div>";
+
+	// Get for Mobile Badges
+	html += "<div style='margin-top: 2em;'>";
+	html += "Mobile Applicaions";
+	html += "<br>";
+	html += "<a href='https://play.google.com/store/apps/details?id=com.ryanhirasaki.scheduler'>";
+	html += "<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' style='width: 14em;'>";
+	html += "</a>";
+	html += "</div>";
 	
 	pushView(VIEW_TYPE.PAGE,html);
 	
