@@ -1,8 +1,7 @@
 ## You can find this live [here](https://scheduler.netlify.com)
 
 # Scheduler
-Scheduler for school. 
-![Demo](https://github.com/liavt/Scheduler/blob/master/demos/DemoStudent.PNG)
+Scheduler for school.
 
 # WHAT?
 Yep, the school now runs this for 10th, 11th, and 12th grade (9th hopefully in the future)
@@ -15,7 +14,7 @@ Sure. Make a pull request. Make sure it works perfectly, as remember the school 
 You can use the API endpoint:
 `https://script.google.com/macros/s/AKfycbyf4XMwLFWqDYH-jYfbS_jH-xlNm7eSyB0tWj0AidzD5wSB41gD/exec`
 
-It accepts GET and POST requests. You will need to send a couple of parameters:
+It accepts GET requests. You will need to send a couple of parameters:
 
 | *Parameter* 	| *Content*                                                                                     	|
 |-------------	|-----------------------------------------------------------------------------------------------	|
