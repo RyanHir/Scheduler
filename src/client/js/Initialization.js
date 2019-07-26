@@ -181,6 +181,8 @@ function viewGradeSelect(){
 	html += "<a href='https://play.google.com/store/apps/details?id=com.ryanhirasaki.scheduler'>";
 	html += "<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' style='width: 14em;'>";
 	html += "</a>";
+	html += "<br>";
+	html += "Google Play and the Google Play logo are trademarks of Google LLC.";
 	html += "</div>";
 	
 	pushView(VIEW_TYPE.PAGE,html);
