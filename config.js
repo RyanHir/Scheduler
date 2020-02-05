@@ -22,7 +22,7 @@ var CONFIG = {
     "NOTIFICATION_ICON":"https://upload.wikimedia.org/wikipedia/en/c/c7/PlanoAcademyHSLogo.jpg",
     "DEBUG":"true",
     "DEBUG_API_ENDPOINT":"https://script.google.com/a/mypisd.net/macros/s/AKfycbx0ztVoIwRo70rLufDMqqGV2pfYrOyzGg4JraLCp9z5/dev",
-    "API_ENDPOINT":"https://script.google.com/macros/s/AKfycbx6UM43jEELsS8VNJCQASpH60veCwJ2fESByIOgFqG8itpvK60v/exec",
+    "API_ENDPOINT":"https://script.google.com/macros/s/AKfycbzdAW1uXHiCywo41h5ogzHmDyqR28n5vh2uHSmMFQd59mJN40o/exec",
     "NASA_IMAGE_API":"UP1G1rpM3KwrpgRw2oMxIdxHlsip8I3ixEfU3L3e",
     "GAPI_TOKEN":"1012462092374-ektdirmhm6op4q2hvu7ists26a3sko9v.apps.googleusercontent.com",
     "THEME_PATH":"src/client/styles/themes/",
