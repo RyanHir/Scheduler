@@ -8,11 +8,11 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 var CONFIG = {
-    "VERSION":"1.0.0b",
+    "VERSION":"1.0.1b",
     "INFOBUTTON_IMAGE_SIZE": 70,
     "GREETINGS":[
       "Hi %N!","Hello, %N.","Hiya %N!","What's up, %N?","Yo, %N!","Hey %N!","Greetings, %N",
-      "Howdy %N!","What's new, %N?","Good to see you, %N!","Welcome, %N.","Pleased to see you, %N!"
+      "Howdy %N!","What's new, %N?","Good to see you, %N!","Welcome, %N.","Pleased to see you, %N!", "Wake Up %N!!!"
     ],
     "SERVICE_WORKER":false,
     "SERVICE_WORKER_CACHE_NAME":"v3",
